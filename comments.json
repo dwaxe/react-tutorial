@@ -1,17 +1,17 @@
 [
     {
+        "text": "Enzalutamide is an androgen receptor inhibitor that blocks multiple steps in the androgen receptor signaling pathway within the tumor cell.1 Enzalutamide currently is approved in the United States, Europe and numerous other countries worldwide for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC), and is being further developed* for earlier stages of prostate cancer, advanced breast cancer and hepatocellular carcinoma.",
         "id": 1388534400000,
-        "author": "Enzalutamide Phase 3",
-        "text": "Enzalutamide is an androgen receptor inhibitor that blocks multiple steps in the androgen receptor signaling pathway within the tumor cell.1 Enzalutamide currently is approved in the United States, Europe and numerous other countries worldwide for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC), and is being further developed* for earlier stages of prostate cancer, advanced breast cancer and hepatocellular carcinoma."
+        "author": "Enzalutamide Phase 3"
     },
     {
+        "text": "Talazoparib, an orally available poly-ADP ribose polymerase, or PARP, inhibitor, is currently in a Phase 3 clinical trial for the treatment of patients with gBRCA mutated breast cancer (i.e., advanced breast cancer in patients whose BRCA genes contain germline mutations). In addition, we are targeting a number of other solid tumor indications in which to investigate talazoparib, including breast (beyond gBRCA mutations), prostate, small cell lung, and ovarian cancers.",
         "id": 1420070400000,
-        "author": "Talazoparib Phase 3",
-        "text": "Talazoparib, an orally available poly-ADP ribose polymerase, or PARP, inhibitor, is currently in a Phase 3 clinical trial for the treatment of patients with gBRCA mutated breast cancer (i.e., advanced breast cancer in patients whose BRCA genes contain germline mutations). In addition, we are targeting a number of other solid tumor indications in which to investigate talazoparib, including breast (beyond gBRCA mutations), prostate, small cell lung, and ovarian cancers."
+        "author": "Talazoparib Phase 3"
     },
     {
+        "text": "React is *great*!",
         "id": 1420070400000,
-        "author": "Flibanserin Phase 4",
-        "text": "React is *great*!"
+        "author": "Flibanserin Phase 4"
     }
 ]
