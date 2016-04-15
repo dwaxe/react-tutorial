@@ -20,8 +20,9 @@ var Comment = React.createClass({
     return (
       <div className="comment">
         <h2 className="commentAuthor">
-          {this.props.author} random text
+          {this.props.author}
         </h2>
+
         <span dangerouslySetInnerHTML={this.rawMarkup()} />
       </div>
     );
@@ -87,7 +88,7 @@ var CommentList = React.createClass({
     var commentNodes = this.props.data.map(function(comment) {
       return (
         <Comment author={comment.author} key={comment.id}>
-          {comment.text} adding random text
+          {comment.text}
         </Comment>
       );
     });
@@ -131,6 +132,7 @@ var CommentForm = React.createClass({
         <input
           type="text"
           placeholder="Description"
+          size="75"
           value={this.state.text}
           onChange={this.handleTextChange}
         />
